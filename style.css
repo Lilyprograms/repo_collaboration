@@ -123,12 +123,15 @@
 
 
 .l_nav {
-  font-family: Arial, Helvetica, sans-serif;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px 30px;
   box-shadow: 2px 2px 10px rgba(201, 201, 201, 0.5);
+  position: fixed;
+  width: 100%;
+  background-color: white;
+  top: 0;
 }
 
 .l_menu {
@@ -204,4 +207,15 @@
 }
 .l_contact_form button:hover {
   background-color: lightgray;
+}
+
+.footer {
+  padding: 50px;
+  text-align: center;
+  background-color: #f1f1f1;
+  margin-top: 50px;
+}
+
+.footer a {
+  color: black;
 }
