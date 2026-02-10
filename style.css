@@ -164,3 +164,44 @@
   letter-spacing: 3px;
   color: #67686C;
 }
+.l_contact {
+  width: 51%;
+  margin: 20px auto;
+}
+
+.l_contact1 h2 {
+  margin-bottom: 40px;
+  font-size: 35px;
+  font-weight: 500;
+  letter-spacing: 3px;
+}
+.l_contact1 p,
+.l_contact2 p {
+  font-size: 14px;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.l_contact2 h3 {
+  color: #607d8b;
+  margin-bottom: 20px;
+}
+
+.l_contact_form input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #dedede;
+  padding: 20px 5px;
+  margin-bottom: 10px;
+}
+
+.l_contact_form button {
+  padding: 15px 20px;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.l_contact_form button:hover {
+  background-color: lightgray;
+}
