@@ -71,3 +71,14 @@
 .l_contact_form button:hover {
   background-color: lightgray;
 }
+
+.footer {
+  padding: 50px;
+  text-align: center;
+  background-color: #f1f1f1;
+  margin-top: 50px;
+}
+
+.footer a {
+  color: black;
+}
