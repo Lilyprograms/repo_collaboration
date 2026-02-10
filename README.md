@@ -1,11 +1,5 @@
-#
+# This is a Read me File
 
-This is a Read me File
+## Kindly Read THis File
 
-##
-
-Kindly Read THis File
-
-###
-
-This is very Important
+### This is very Important
