@@ -30,3 +30,19 @@
   background-color: lightgray;
 }
 
+.l_banner {
+  min-height: 90vh;
+  display: flex;
+  align-items: flex-end;
+  padding: 20px;
+  background-image: url(./images/hamburger.jpg);
+  background-size: cover;
+  width: 85%;
+  margin: 0 auto;
+}
+.l_banner h3 {
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: 3px;
+  color: #67686C;
+}
